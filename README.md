@@ -1,6 +1,6 @@
 Numpy implementation of Neural Network.
 ## Layers
-You can create any neural network with this library. The code will create a computational graph as you add more layers. It will calculate the gradient using backpropagation.
+You can create neural networks with this library. The code will create a computational graph as you add more layers. It will calculate the gradient using backpropagation.
 
 You can train Convolutional Neural Network.
 
